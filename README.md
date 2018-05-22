@@ -7,3 +7,10 @@ My senior project; Forecasting Turkey real GDP growth using mixed frequency data
 
 ## Nowcast Accuracy
 ![alt text](https://github.com/kazimsanlav/Midas-GDP-Forecast/blob/master/midasr/plots/nowcast.png)
+
+## Nowcast Error Statistic
+![alt text](https://github.com/kazimsanlav/Midas-GDP-Forecast/blob/master/midasr/plots/mape%20now.png)
+
+
+
+
